@@ -6,6 +6,7 @@ public class GitSampleTest {
 	@Test
 	public void createUser(){
 		System.out.println("User Created");
+		System.out.println("Git");
 	}
 
 }
